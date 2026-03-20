@@ -2,11 +2,15 @@
 layout: default
 ---
 
+<p align="center">
+  <img src="logo.png" alt="Agora Fast Booking" width="200">
+</p>
+
 # Agora Fast Booking
 
 Tampermonkey userscript for bulk desk booking on [Agora](https://agora.fastweb.it/).
 
-**Current version:** v4.4.0
+**Current version:** v4.5.0
 
 ---
 
