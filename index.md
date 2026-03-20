@@ -6,11 +6,11 @@ layout: default
   <img src="logo.png" alt="Agora Fast Booking" width="200">
 </p>
 
-# Agora Fast Booking
+# BOOXX
 
 Tampermonkey userscript for bulk desk booking on [Agora](https://agora.fastweb.it/).
 
-**Current version:** v4.5.0
+**Current version:** v4.6.0
 
 ---
 
