@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Agora Fast Booking
 // @namespace    https://agora.fastweb.it/
-// @version      4.7.0
+// @version      4.7.1
 // @description  BOOXX — Bulk desk booking with smart seat matching, rebook & cancel for Agora
 // @icon         https://raw.githubusercontent.com/Bonobomagno/solid-fast-booking-dist/main/logo-icon.png
 // @downloadURL  https://raw.githubusercontent.com/Bonobomagno/solid-fast-booking-dist/main/solid-fast-booking.user.js
