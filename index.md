@@ -10,7 +10,7 @@ layout: default
 
 Tampermonkey userscript for bulk desk booking on [Agora](https://agora.fastweb.it/).
 
-**Current version:** v4.7.1
+**Current version:** v4.7.2
 
 ---
 
